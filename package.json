@@ -1,0 +1,27 @@
+{
+  "name": "prompt-controller-intelligence-dashboard",
+  "version": "2.2.0",
+  "description": "Scalable Industrial Controller & Transmitter Intelligence Dashboard for Prompt Equipments with Live Cloud Sync, Multi-Role Access Control, Audit Log Rollback, and Official Site Sync.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "prompt-equipments",
+    "weighing-controller",
+    "weighing-transmitter",
+    "industrial-automation",
+    "full-specs",
+    "b2b-catalog",
+    "node-backend",
+    "rest-api",
+    "vercel"
+  ],
+  "author": "Prompt Equipments",
+  "license": "UNLICENSED"
+}
